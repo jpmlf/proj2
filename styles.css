@@ -1,0 +1,37 @@
+h1{
+    padding: 40px;
+    display: block;
+    outline: #000; 
+}
+
+
+.forecastResults{
+    padding: 40px;
+    display: block;
+    outline: #000;
+  }
+
+.forecastResults p{
+    display: block;
+    color: #000;
+    font-size: 160%;
+    padding: 10px;
+    background-color: aquamarine;
+}
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.footer-dark{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+h2{
+    text-align: center;
+}
+.carousel-indicators li .active{
+    background-color: #282828;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+  }
